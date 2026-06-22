@@ -1,7 +1,3 @@
-Here’s a sample **README** file for your project:
-
----
-
 # EduAssist - AI-Powered Educational Platform
 
 **EduAssist** is an innovative, AI-powered educational platform that provides a set of powerful tools designed to enhance the learning experience. Whether you're preparing for a coding interview or just looking to optimize your resume for job applications, **EduAssist** has got you covered with real-time MCQ generation, PDF querying contest tracking, and ATS resume optimization. Powered by advanced AI models like Google Gemini Pro and LangChain, the platform tailors resources to individual needs.
