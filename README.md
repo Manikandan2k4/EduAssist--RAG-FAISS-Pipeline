@@ -48,8 +48,8 @@ Optimize your resume to get past automated Applicant Tracking Systems (ATS). Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/study-buddy.git
-   cd study-buddy
+   git clone https://github.com/yourusername/EduAssist--RAG-FAISS-Pipeline.git
+   cd EduAssist--RAG-FAISS-Pipeline.git
    ```
 
 2. Install the required dependencies:
